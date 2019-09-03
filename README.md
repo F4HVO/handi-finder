@@ -3,7 +3,7 @@ F4HVO implementation of Handi Finder.
 
 This circuit was made in a hurry but fortunately it contains no error.
 
-![image](/images/board.png)
+![Board](/images/front.png)
 
 ## How to make it
 
