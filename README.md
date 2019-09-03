@@ -1,7 +1,7 @@
 # handi-finder
 F4HVO implementation of Handi Finder.
 
-This circuit was made in a hurry but fortunately it contains no error.
+This circuit was made in a hurry but fortunately it works.
 
 ![Board](/images/front.png)
 
@@ -10,6 +10,9 @@ This circuit was made in a hurry but fortunately it contains no error.
 - Send the gerber files to your favorite PCB factory (OSH Park, Elecrow, AllPCB, ...).
 - Get the components (see BOM below)
 - Assemble (hot air station or reflow oven recommended, but a frying pan and sand can do the trick)
+- Then add antennas : rigid wire of 48cm on each side, between ANT1 and ANT1GND (and ANT2-ANT2GND respectively). Make a bow shape by bending the wire to form 3 edges (two of 17cm and one of 12cm).
+- Have fun.
+
 
 ## BOM
 All capacitors and resistors are 0805.
@@ -22,7 +25,7 @@ All capacitors and resistors are 0805.
 - D1, D2 : 1n4148 (or any switching diode, or PIN diode)
 - Switch : good luck, or no switch
 - SMA connector
-- 9V battery
+- 9V battery (and connector)
 
 
 ## Remarks
