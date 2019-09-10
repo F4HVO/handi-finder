@@ -30,5 +30,10 @@ All capacitors and resistors are 0805.
 
 ## Remarks
 
-- The package for the diodes (SOD-323) might not be the more standard. Bigger diodes can still be soldered to the board. Just take some silk mask off or modify the eagle board :).
-- The switch package is also unfamiliar, a more standard one might be better. I did not use a switch, I soldered a jumper on my assembled board.
+- The switch package is unfamiliar, a more standard one might be better. I did not use a switch, I soldered a jumper on my assembled board.
+
+## Release notes
+
+### Version 1.1 :
+- Change diodes package to SOD 123
+- Change hole diameter to 2.6mm
