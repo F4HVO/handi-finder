@@ -60,7 +60,7 @@
 <library>
 <packages>
 <package name="2.6MMHOLE">
-<pad name="P$1" x="0" y="0" drill="2.6" diameter="4" shape="octagon"/>
+<pad name="P$1" x="0" y="0" drill="2.6" diameter="4.5" shape="octagon"/>
 <text x="-2.54" y="2.54" size="1.27" layer="25">&gt;Name</text>
 </package>
 </packages>

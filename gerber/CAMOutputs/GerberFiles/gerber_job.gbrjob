@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2019-08-12T18:21:12Z",
+        "CreationDate": "2019-09-10T08:01:57Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,7 +13,7 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "HandiFInder"
+            "ProjectId": "HandiFinder"
         },
         "Owner": "Hugo C <ethugoarrive@gmail.com>",
         "Size": {
