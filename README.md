@@ -37,3 +37,7 @@ All capacitors and resistors are 0805.
 ### Version 1.1 :
 - Change diodes package to SOD 123
 - Change hole diameter to 2.6mm
+
+### Version 1.2 :
+- Fix switch connection, CD4047 was always powered on.
+
