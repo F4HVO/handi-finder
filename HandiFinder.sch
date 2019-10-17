@@ -9470,10 +9470,6 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <wire x1="2.54" y1="66.04" x2="2.54" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="2.54" y1="58.42" x2="17.78" y2="58.42" width="0.1524" layer="91"/>
 <junction x="17.78" y="58.42"/>
-<pinref part="IC2" gate="P" pin="VDD"/>
-<wire x1="-22.86" y1="20.32" x2="-22.86" y2="66.04" width="0.1524" layer="91"/>
-<wire x1="-22.86" y1="66.04" x2="2.54" y2="66.04" width="0.1524" layer="91"/>
-<junction x="2.54" y="66.04"/>
 <pinref part="S1" gate="1" pin="P"/>
 <wire x1="-5.08" y1="30.48" x2="-5.08" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="-5.08" y1="43.18" x2="17.78" y2="43.18" width="0.1524" layer="91"/>
@@ -9527,6 +9523,10 @@ Distributor: &lt;a href ="https://www.buerklin.com/default.asp?event=ShowArtikel
 <wire x1="10.16" y1="33.02" x2="10.16" y2="38.1" width="0.1524" layer="91"/>
 <pinref part="S1" gate="1" pin="O"/>
 <wire x1="5.08" y1="33.02" x2="10.16" y2="33.02" width="0.1524" layer="91"/>
+<pinref part="IC2" gate="P" pin="VDD"/>
+<wire x1="-22.86" y1="20.32" x2="-22.86" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="-22.86" y1="25.4" x2="27.94" y2="25.4" width="0.1524" layer="91"/>
+<junction x="27.94" y="25.4"/>
 </segment>
 </net>
 </nets>
